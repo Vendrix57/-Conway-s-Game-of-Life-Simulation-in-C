@@ -27,6 +27,3 @@ The simulation takes place on a 4x4 grid. Each cell is either Alive (1) or Dead 
     ```bash
     ./game_of_life
     ```
-
-## 📜 License
-This project is open-source and intended for educational use in algorithm design and discrete mathematics.
