@@ -28,23 +28,5 @@ The simulation takes place on a 4x4 grid. Each cell is either Alive (1) or Dead 
     ./game_of_life
     ```
 
-## 📝 Example Output
-
- Initial Stage:
- ----- ----- ----- -----
-|  1  |  0  |  1  |  1  |
- ----- ----- ----- -----
-|  0  |  1  |  0  |  0  |
- ----- ----- ----- -----
-|  1  |  1  |  1  |  0  |
- ----- ----- ----- -----
-|  0  |  0  |  1  |  1  |
- ----- ----- ----- -----
-
- Next Generation:
- ----- ----- ----- -----
-|  0  |  1  |  1  |  0  |
-...
-
 ## 📜 License
 This project is open-source and intended for educational use in algorithm design and discrete mathematics.
